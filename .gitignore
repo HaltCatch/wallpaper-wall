@@ -1,0 +1,25 @@
+public/catalog.json
+public/.catalog-cache.json
+public/thumbs/
+public/previews/
+__pycache__/
+server/__pycache__/
+.env
+.agents/
+
+# Local wallpaper library and generated build artefacts.
+images/
+web/node_modules/
+/.pnpm-store/
+web/dist/
+wallpaper-agent/target*/
+mobile/android/.gradle/
+mobile/android/build/
+mobile/android/app/build/
+mobile/android/local.properties
+public/downloads/*.exe
+public/downloads/*.apk
+public/downloads/*.zip
+
+# Private demo build output
+web/demo-dist/

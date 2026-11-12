@@ -1,0 +1,10 @@
+[package]
+name = "wallpaperwall-agent"
+version = "0.1.0"
+edition = "2021"
+description = "Local cross-platform wallpaper setter for Wallpaper Wall"
+
+[profile.release]
+strip = true
+lto = true
+codegen-units = 1

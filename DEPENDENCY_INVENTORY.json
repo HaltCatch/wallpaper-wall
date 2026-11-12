@@ -1,0 +1,50 @@
+[
+  {
+    "ecosystem": "pypi",
+    "name": "fastapi",
+    "version": "0.115.12",
+    "manifest": "server/requirements.txt"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "uvicorn",
+    "version": "0.34.0",
+    "manifest": "server/requirements.txt"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "authlib",
+    "version": "1.5.2",
+    "manifest": "server/requirements.txt"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "httpx",
+    "version": "0.28.1",
+    "manifest": "server/requirements.txt"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "boto3",
+    "version": "1.37.12",
+    "manifest": "server/requirements.txt"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "Pillow",
+    "version": "10.4.0",
+    "manifest": "server/requirements.txt"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "python-multipart",
+    "version": "0.0.20",
+    "manifest": "server/requirements.txt"
+  },
+  {
+    "ecosystem": "pypi",
+    "name": "itsdangerous",
+    "version": "2.2.0",
+    "manifest": "server/requirements.txt"
+  }
+]

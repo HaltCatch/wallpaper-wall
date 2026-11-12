@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#0b0d12" />
+    <link rel="icon" href="/favicon.ico" sizes="32x32" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <title>Wallpaper Wall</title>
+  </head>
+  <body class="wall-page">
+    <main id="wall" class="wall" aria-label="壁纸墙"></main>
+    <template id="tile-template">
+      <article class="tile reveal">
+        <a class="tile-open" aria-label="查看壁纸详情"></a>
+        <button class="tile-favorite" type="button" aria-label="喜欢此壁纸" title="喜欢此壁纸"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20.5 4.2 12.9a4.6 4.6 0 0 1 6.5-6.5l1.3 1.3 1.3-1.3a4.6 4.6 0 0 1 6.5 6.5Z"/></svg></button>
+        <a class="tile-download" aria-label="下载高清壁纸" title="下载高清壁纸"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12"/><path d="m7 12 5 5 5-5"/><path d="M5 20h14"/></svg></a>
+        <img decoding="async" loading="lazy" alt="" />
+      </article>
+    </template>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

@@ -1,0 +1,17 @@
+.git/
+.agents/
+.env
+images/
+__pycache__/
+server/__pycache__/
+web/node_modules/
+/.pnpm-store/
+web/dist/
+wallpaper-agent/target/
+mobile/android/.gradle/
+mobile/android/build/
+mobile/android/app/build/
+public/catalog.json
+public/.catalog-cache.json
+public/thumbs/
+public/previews/

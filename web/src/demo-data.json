@@ -1,0 +1,528 @@
+{
+  "version": 2,
+  "count": 18,
+  "wallpapers": [
+    {
+      "id": "demo-01",
+      "title": "潮汐 01",
+      "folder": "光与山海",
+      "collection": "示例图库",
+      "width": 900,
+      "height": 1300,
+      "thumbnail": "demo/01.svg",
+      "preview": "demo/01.svg",
+      "mtime": 1760000000,
+      "primary": {
+        "name": "01.svg",
+        "source": "demo/01.svg",
+        "width": 900,
+        "height": 1300,
+        "bytes": 1177,
+        "label": "900 × 1300"
+      },
+      "variants": [
+        {
+          "name": "01.svg",
+          "source": "demo/01.svg",
+          "width": 900,
+          "height": 1300,
+          "bytes": 1177,
+          "label": "900 × 1300"
+        }
+      ]
+    },
+    {
+      "id": "demo-02",
+      "title": "余温 01",
+      "folder": "光与山海",
+      "collection": "示例图库",
+      "width": 1400,
+      "height": 950,
+      "thumbnail": "demo/02.svg",
+      "preview": "demo/02.svg",
+      "mtime": 1760000001,
+      "primary": {
+        "name": "02.svg",
+        "source": "demo/02.svg",
+        "width": 1400,
+        "height": 950,
+        "bytes": 1177,
+        "label": "1400 × 950"
+      },
+      "variants": [
+        {
+          "name": "02.svg",
+          "source": "demo/02.svg",
+          "width": 1400,
+          "height": 950,
+          "bytes": 1177,
+          "label": "1400 × 950"
+        }
+      ]
+    },
+    {
+      "id": "demo-03",
+      "title": "远岬 01",
+      "folder": "光与山海",
+      "collection": "示例图库",
+      "width": 1400,
+      "height": 950,
+      "thumbnail": "demo/03.svg",
+      "preview": "demo/03.svg",
+      "mtime": 1760000002,
+      "primary": {
+        "name": "03.svg",
+        "source": "demo/03.svg",
+        "width": 1400,
+        "height": 950,
+        "bytes": 1178,
+        "label": "1400 × 950"
+      },
+      "variants": [
+        {
+          "name": "03.svg",
+          "source": "demo/03.svg",
+          "width": 1400,
+          "height": 950,
+          "bytes": 1178,
+          "label": "1400 × 950"
+        }
+      ]
+    },
+    {
+      "id": "demo-04",
+      "title": "夜航 01",
+      "folder": "光与山海",
+      "collection": "示例图库",
+      "width": 1400,
+      "height": 950,
+      "thumbnail": "demo/04.svg",
+      "preview": "demo/04.svg",
+      "mtime": 1760000003,
+      "primary": {
+        "name": "04.svg",
+        "source": "demo/04.svg",
+        "width": 1400,
+        "height": 950,
+        "bytes": 1177,
+        "label": "1400 × 950"
+      },
+      "variants": [
+        {
+          "name": "04.svg",
+          "source": "demo/04.svg",
+          "width": 1400,
+          "height": 950,
+          "bytes": 1177,
+          "label": "1400 × 950"
+        }
+      ]
+    },
+    {
+      "id": "demo-05",
+      "title": "砂丘 01",
+      "folder": "光与山海",
+      "collection": "示例图库",
+      "width": 900,
+      "height": 1300,
+      "thumbnail": "demo/05.svg",
+      "preview": "demo/05.svg",
+      "mtime": 1760000004,
+      "primary": {
+        "name": "05.svg",
+        "source": "demo/05.svg",
+        "width": 900,
+        "height": 1300,
+        "bytes": 1177,
+        "label": "900 × 1300"
+      },
+      "variants": [
+        {
+          "name": "05.svg",
+          "source": "demo/05.svg",
+          "width": 900,
+          "height": 1300,
+          "bytes": 1177,
+          "label": "900 × 1300"
+        }
+      ]
+    },
+    {
+      "id": "demo-06",
+      "title": "森林来信 01",
+      "folder": "光与山海",
+      "collection": "示例图库",
+      "width": 1400,
+      "height": 950,
+      "thumbnail": "demo/06.svg",
+      "preview": "demo/06.svg",
+      "mtime": 1760000005,
+      "primary": {
+        "name": "06.svg",
+        "source": "demo/06.svg",
+        "width": 1400,
+        "height": 950,
+        "bytes": 1178,
+        "label": "1400 × 950"
+      },
+      "variants": [
+        {
+          "name": "06.svg",
+          "source": "demo/06.svg",
+          "width": 1400,
+          "height": 950,
+          "bytes": 1178,
+          "label": "1400 × 950"
+        }
+      ]
+    },
+    {
+      "id": "demo-07",
+      "title": "潮汐 02",
+      "folder": "几何与色彩",
+      "collection": "示例图库",
+      "width": 1400,
+      "height": 950,
+      "thumbnail": "demo/07.svg",
+      "preview": "demo/07.svg",
+      "mtime": 1760000006,
+      "primary": {
+        "name": "07.svg",
+        "source": "demo/07.svg",
+        "width": 1400,
+        "height": 950,
+        "bytes": 1177,
+        "label": "1400 × 950"
+      },
+      "variants": [
+        {
+          "name": "07.svg",
+          "source": "demo/07.svg",
+          "width": 1400,
+          "height": 950,
+          "bytes": 1177,
+          "label": "1400 × 950"
+        }
+      ]
+    },
+    {
+      "id": "demo-08",
+      "title": "余温 02",
+      "folder": "几何与色彩",
+      "collection": "示例图库",
+      "width": 1400,
+      "height": 950,
+      "thumbnail": "demo/08.svg",
+      "preview": "demo/08.svg",
+      "mtime": 1760000007,
+      "primary": {
+        "name": "08.svg",
+        "source": "demo/08.svg",
+        "width": 1400,
+        "height": 950,
+        "bytes": 1177,
+        "label": "1400 × 950"
+      },
+      "variants": [
+        {
+          "name": "08.svg",
+          "source": "demo/08.svg",
+          "width": 1400,
+          "height": 950,
+          "bytes": 1177,
+          "label": "1400 × 950"
+        }
+      ]
+    },
+    {
+      "id": "demo-09",
+      "title": "远岬 02",
+      "folder": "几何与色彩",
+      "collection": "示例图库",
+      "width": 900,
+      "height": 1300,
+      "thumbnail": "demo/09.svg",
+      "preview": "demo/09.svg",
+      "mtime": 1760000008,
+      "primary": {
+        "name": "09.svg",
+        "source": "demo/09.svg",
+        "width": 900,
+        "height": 1300,
+        "bytes": 1177,
+        "label": "900 × 1300"
+      },
+      "variants": [
+        {
+          "name": "09.svg",
+          "source": "demo/09.svg",
+          "width": 900,
+          "height": 1300,
+          "bytes": 1177,
+          "label": "900 × 1300"
+        }
+      ]
+    },
+    {
+      "id": "demo-10",
+      "title": "夜航 02",
+      "folder": "几何与色彩",
+      "collection": "示例图库",
+      "width": 1400,
+      "height": 950,
+      "thumbnail": "demo/10.svg",
+      "preview": "demo/10.svg",
+      "mtime": 1760000009,
+      "primary": {
+        "name": "10.svg",
+        "source": "demo/10.svg",
+        "width": 1400,
+        "height": 950,
+        "bytes": 1177,
+        "label": "1400 × 950"
+      },
+      "variants": [
+        {
+          "name": "10.svg",
+          "source": "demo/10.svg",
+          "width": 1400,
+          "height": 950,
+          "bytes": 1177,
+          "label": "1400 × 950"
+        }
+      ]
+    },
+    {
+      "id": "demo-11",
+      "title": "砂丘 02",
+      "folder": "几何与色彩",
+      "collection": "示例图库",
+      "width": 1400,
+      "height": 950,
+      "thumbnail": "demo/11.svg",
+      "preview": "demo/11.svg",
+      "mtime": 1760000010,
+      "primary": {
+        "name": "11.svg",
+        "source": "demo/11.svg",
+        "width": 1400,
+        "height": 950,
+        "bytes": 1177,
+        "label": "1400 × 950"
+      },
+      "variants": [
+        {
+          "name": "11.svg",
+          "source": "demo/11.svg",
+          "width": 1400,
+          "height": 950,
+          "bytes": 1177,
+          "label": "1400 × 950"
+        }
+      ]
+    },
+    {
+      "id": "demo-12",
+      "title": "森林来信 02",
+      "folder": "几何与色彩",
+      "collection": "示例图库",
+      "width": 1400,
+      "height": 950,
+      "thumbnail": "demo/12.svg",
+      "preview": "demo/12.svg",
+      "mtime": 1760000011,
+      "primary": {
+        "name": "12.svg",
+        "source": "demo/12.svg",
+        "width": 1400,
+        "height": 950,
+        "bytes": 1178,
+        "label": "1400 × 950"
+      },
+      "variants": [
+        {
+          "name": "12.svg",
+          "source": "demo/12.svg",
+          "width": 1400,
+          "height": 950,
+          "bytes": 1178,
+          "label": "1400 × 950"
+        }
+      ]
+    },
+    {
+      "id": "demo-13",
+      "title": "潮汐 03",
+      "folder": "流动的形状",
+      "collection": "示例图库",
+      "width": 900,
+      "height": 1300,
+      "thumbnail": "demo/13.svg",
+      "preview": "demo/13.svg",
+      "mtime": 1760000012,
+      "primary": {
+        "name": "13.svg",
+        "source": "demo/13.svg",
+        "width": 900,
+        "height": 1300,
+        "bytes": 1177,
+        "label": "900 × 1300"
+      },
+      "variants": [
+        {
+          "name": "13.svg",
+          "source": "demo/13.svg",
+          "width": 900,
+          "height": 1300,
+          "bytes": 1177,
+          "label": "900 × 1300"
+        }
+      ]
+    },
+    {
+      "id": "demo-14",
+      "title": "余温 03",
+      "folder": "流动的形状",
+      "collection": "示例图库",
+      "width": 1400,
+      "height": 950,
+      "thumbnail": "demo/14.svg",
+      "preview": "demo/14.svg",
+      "mtime": 1760000013,
+      "primary": {
+        "name": "14.svg",
+        "source": "demo/14.svg",
+        "width": 1400,
+        "height": 950,
+        "bytes": 1177,
+        "label": "1400 × 950"
+      },
+      "variants": [
+        {
+          "name": "14.svg",
+          "source": "demo/14.svg",
+          "width": 1400,
+          "height": 950,
+          "bytes": 1177,
+          "label": "1400 × 950"
+        }
+      ]
+    },
+    {
+      "id": "demo-15",
+      "title": "远岬 03",
+      "folder": "流动的形状",
+      "collection": "示例图库",
+      "width": 1400,
+      "height": 950,
+      "thumbnail": "demo/15.svg",
+      "preview": "demo/15.svg",
+      "mtime": 1760000014,
+      "primary": {
+        "name": "15.svg",
+        "source": "demo/15.svg",
+        "width": 1400,
+        "height": 950,
+        "bytes": 1178,
+        "label": "1400 × 950"
+      },
+      "variants": [
+        {
+          "name": "15.svg",
+          "source": "demo/15.svg",
+          "width": 1400,
+          "height": 950,
+          "bytes": 1178,
+          "label": "1400 × 950"
+        }
+      ]
+    },
+    {
+      "id": "demo-16",
+      "title": "夜航 03",
+      "folder": "流动的形状",
+      "collection": "示例图库",
+      "width": 1400,
+      "height": 950,
+      "thumbnail": "demo/16.svg",
+      "preview": "demo/16.svg",
+      "mtime": 1760000015,
+      "primary": {
+        "name": "16.svg",
+        "source": "demo/16.svg",
+        "width": 1400,
+        "height": 950,
+        "bytes": 1177,
+        "label": "1400 × 950"
+      },
+      "variants": [
+        {
+          "name": "16.svg",
+          "source": "demo/16.svg",
+          "width": 1400,
+          "height": 950,
+          "bytes": 1177,
+          "label": "1400 × 950"
+        }
+      ]
+    },
+    {
+      "id": "demo-17",
+      "title": "砂丘 03",
+      "folder": "流动的形状",
+      "collection": "示例图库",
+      "width": 900,
+      "height": 1300,
+      "thumbnail": "demo/17.svg",
+      "preview": "demo/17.svg",
+      "mtime": 1760000016,
+      "primary": {
+        "name": "17.svg",
+        "source": "demo/17.svg",
+        "width": 900,
+        "height": 1300,
+        "bytes": 1177,
+        "label": "900 × 1300"
+      },
+      "variants": [
+        {
+          "name": "17.svg",
+          "source": "demo/17.svg",
+          "width": 900,
+          "height": 1300,
+          "bytes": 1177,
+          "label": "900 × 1300"
+        }
+      ]
+    },
+    {
+      "id": "demo-18",
+      "title": "森林来信 03",
+      "folder": "流动的形状",
+      "collection": "示例图库",
+      "width": 1400,
+      "height": 950,
+      "thumbnail": "demo/18.svg",
+      "preview": "demo/18.svg",
+      "mtime": 1760000017,
+      "primary": {
+        "name": "18.svg",
+        "source": "demo/18.svg",
+        "width": 1400,
+        "height": 950,
+        "bytes": 1178,
+        "label": "1400 × 950"
+      },
+      "variants": [
+        {
+          "name": "18.svg",
+          "source": "demo/18.svg",
+          "width": 1400,
+          "height": 950,
+          "bytes": 1178,
+          "label": "1400 × 950"
+        }
+      ]
+    }
+  ]
+}
